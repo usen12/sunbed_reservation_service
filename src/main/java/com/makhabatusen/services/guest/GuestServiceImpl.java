@@ -1,6 +1,5 @@
 package com.makhabatusen.services.guest;
 
-import com.makhabatusen.exceptions.ValidationException;
 import com.makhabatusen.factory.Factory;
 import com.makhabatusen.models.Guest;
 import com.makhabatusen.repository.guest.IGuestRepository;

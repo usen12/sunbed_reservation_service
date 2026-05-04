@@ -1,6 +1,5 @@
 package com.makhabatusen.services.accounting;
 
-import com.makhabatusen.models.Guest;
 import com.makhabatusen.utils.StandardMessages;
 
 public class AccountingServiceImpl implements IAccountingService {

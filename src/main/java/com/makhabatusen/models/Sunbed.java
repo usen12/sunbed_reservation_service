@@ -79,15 +79,6 @@ public class Sunbed extends BaseModel {
             return this;
         }
 
-        public Builder groupID(int groupID) {
-            this.groupID = groupID;
-            return this;
-        }
-
-        public Builder endOfOccupyingTime(LocalDateTime endOfOccupyingTime) {
-            this.endOfOccupyingTime = endOfOccupyingTime;
-            return this;
-        }
 
 
         public static Builder builder() {

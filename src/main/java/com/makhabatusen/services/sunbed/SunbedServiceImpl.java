@@ -6,7 +6,6 @@ import com.makhabatusen.repository.sunbed.ISunbedRepository;
 import com.makhabatusen.utils.StandardMessages;
 
 import java.time.LocalDateTime;
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.stream.Collectors;

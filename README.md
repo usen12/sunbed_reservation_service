@@ -1,4 +1,4 @@
-# Beach Club Management System
+# Sunbeds Reservation System
 
 A robust console-based Java application for managing sunbed reservations at a beach club. The system features sophisticated placement algorithms, automated rental tracking, and detailed accounting.
 
@@ -61,7 +61,7 @@ The `Application` class initializes a `ScheduledExecutorService` running a daemo
 ## 🚀 Getting Started
 
 ### Requirements
-- Java 11 or higher
+- Java 14 or higher
 - Maven 3.6+
 
 ### Build & Run
@@ -101,5 +101,7 @@ src/main/java/com/makhabatusen/
 │   └── ...         # Validation and Guest services
 ├── models/         # Data models using Builder pattern
 ├── repository/     # In-memory storage
+├── exceptions/     # AppException and ValidationException
+├── utils/          # StandardMessages and shared utilities
 └── factory/        # Dependency injection & wiring
 ```
