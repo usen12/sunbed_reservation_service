@@ -1,4 +1,4 @@
-# Beach Club Management System
+# Sunbeds Reservation System
 
 A robust console-based Java application for managing sunbed reservations at a beach club. The system features sophisticated placement algorithms, automated rental tracking, and detailed accounting.
 
